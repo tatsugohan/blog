@@ -1,5 +1,2 @@
-listing of configured repository
-
->dnf repolist
-
+use github to store command , feedback, fellings ...
 
